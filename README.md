@@ -24,6 +24,9 @@ As seguintes regras do sistema *NewsFlow* não foram priorizadas nestas quatro h
 
 ## Resultado da Execução (`npm test`)
 ```text
+> newsflow-bdd@1.0.0 test
+> cucumber-js
+
 ..................................................................
 
 13 scenarios (13 passed)
